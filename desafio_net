@@ -1,0 +1,18 @@
+consumir a un api publico
+
+https://rickandmortyapi.com/documentation/#rest
+
+Tener
+clase modelo > https://json2csharp.com/ > clase Root > RickAndMorty
+clase interfaz > Metodo Get<RickAndMorty>
+clase servicio > url : https://rickandmortyapi.com/api/character > httpClient
+
+ID
+Singlenton
+
+
+Listar con verbo Get():
+id, name
+
+
+
